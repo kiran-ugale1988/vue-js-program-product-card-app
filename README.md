@@ -1,5 +1,12 @@
 # vue-js-program-product-card-app
 
+Steps to run:
+git clone git@github.com:kiran-ugale1988/vue-js-program-product-card-app.git
+cd vue-js-program-product-card-app
+npm install
+npm run serve
+
+
 ## Project setup
 ```
 npm install
